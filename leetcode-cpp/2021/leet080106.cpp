@@ -15,7 +15,8 @@ public:
 	}
 };
 
-int main() {
+int main_leet080106() {
+//int main() {
 	Solution st;
 	vector<int> piles;
 

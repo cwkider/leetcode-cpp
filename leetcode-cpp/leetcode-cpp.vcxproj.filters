@@ -29,119 +29,125 @@
     <ClCompile Include="leetcode-cpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="leet050202.cpp">
+    <ClCompile Include="2021\leet050202.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet050205.cpp">
+    <ClCompile Include="2021\leet050205.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet050405.cpp">
+    <ClCompile Include="2021\leet050405.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet050407.cpp">
+    <ClCompile Include="2021\leet050407.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet050408.cpp">
+    <ClCompile Include="2021\leet050408.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet050501.cpp">
+    <ClCompile Include="2021\leet050501.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060102.cpp">
+    <ClCompile Include="2021\leet060102.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060103.cpp">
+    <ClCompile Include="2021\leet060103.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060104.cpp">
+    <ClCompile Include="2021\leet060104.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060107.cpp">
+    <ClCompile Include="2021\leet060107.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060108.cpp">
+    <ClCompile Include="2021\leet060108.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060202.cpp">
+    <ClCompile Include="2021\leet060202.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060203.cpp">
+    <ClCompile Include="2021\leet060203.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060204.cpp">
+    <ClCompile Include="2021\leet060204.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060205.cpp">
+    <ClCompile Include="2021\leet060205.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060206.cpp">
+    <ClCompile Include="2021\leet060206.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060302.cpp">
+    <ClCompile Include="2021\leet060302.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060303.cpp">
+    <ClCompile Include="2021\leet060303.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060305.cpp">
+    <ClCompile Include="2021\leet060305.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060306.cpp">
+    <ClCompile Include="2021\leet060306.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060402.cpp">
+    <ClCompile Include="2021\leet060402.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060403.cpp">
+    <ClCompile Include="2021\leet060403.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060404.cpp">
+    <ClCompile Include="2021\leet060404.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060405.cpp">
+    <ClCompile Include="2021\leet060405.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060406.cpp">
+    <ClCompile Include="2021\leet060406.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet060408.cpp">
+    <ClCompile Include="2021\leet060408.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070104.cpp">
+    <ClCompile Include="2021\leet070104.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070105.cpp">
+    <ClCompile Include="2021\leet070105.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070206.cpp">
+    <ClCompile Include="2021\leet070206.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070302.cpp">
+    <ClCompile Include="2021\leet070302.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070303.cpp">
+    <ClCompile Include="2021\leet070303.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070304.cpp">
+    <ClCompile Include="2021\leet070304.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070305.cpp">
+    <ClCompile Include="2021\leet070305.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070308.cpp">
+    <ClCompile Include="2021\leet070308.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070406.cpp">
+    <ClCompile Include="2021\leet070406.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet070407.cpp">
+    <ClCompile Include="2021\leet070407.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
-    <ClCompile Include="leet080105.cpp">
+    <ClCompile Include="2021\leet080105.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
     <ClCompile Include="2021\leet080106.cpp">
       <Filter>소스 파일\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="leet080107.cpp">
+      <Filter>소스 파일\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
