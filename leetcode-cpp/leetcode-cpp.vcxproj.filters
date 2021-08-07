@@ -140,5 +140,8 @@
     <ClCompile Include="leet080105.cpp">
       <Filter>소스 파일\2021</Filter>
     </ClCompile>
+    <ClCompile Include="2021\leet080106.cpp">
+      <Filter>소스 파일\2021</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

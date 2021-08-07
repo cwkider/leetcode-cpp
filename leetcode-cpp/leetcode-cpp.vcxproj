@@ -154,6 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="2021\leet080106.cpp" />
     <ClCompile Include="leet050202.cpp" />
     <ClCompile Include="leet050205.cpp" />
     <ClCompile Include="leet050405.cpp" />
