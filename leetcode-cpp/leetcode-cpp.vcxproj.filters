@@ -149,5 +149,11 @@
     <ClCompile Include="Node.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="leet080202.cpp">
+      <Filter>소스 파일\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="leet080204.cpp">
+      <Filter>소스 파일\2021</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

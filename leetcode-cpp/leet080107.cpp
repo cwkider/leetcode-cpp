@@ -130,7 +130,7 @@ static Node* setNode(vector<int> &nodes, int skipnum) {
 	return ret;
 }
 
-int main() {
+int main_leet080107() {
 	Solution st;
 	vector<int> nodes;
 	Node* root;
