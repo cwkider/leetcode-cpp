@@ -152,46 +152,47 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2021\leet050202.cpp" />
-    <ClCompile Include="2021\leet050205.cpp" />
-    <ClCompile Include="2021\leet050405.cpp" />
-    <ClCompile Include="2021\leet050407.cpp" />
-    <ClCompile Include="2021\leet050408.cpp" />
-    <ClCompile Include="2021\leet050501.cpp" />
-    <ClCompile Include="2021\leet060102.cpp" />
-    <ClCompile Include="2021\leet060103.cpp" />
-    <ClCompile Include="2021\leet060104.cpp" />
-    <ClCompile Include="2021\leet060107.cpp" />
-    <ClCompile Include="2021\leet060108.cpp" />
-    <ClCompile Include="2021\leet060202.cpp" />
-    <ClCompile Include="2021\leet060203.cpp" />
-    <ClCompile Include="2021\leet060204.cpp" />
-    <ClCompile Include="2021\leet060205.cpp" />
-    <ClCompile Include="2021\leet060206.cpp" />
-    <ClCompile Include="2021\leet060302.cpp" />
-    <ClCompile Include="2021\leet060303.cpp" />
-    <ClCompile Include="2021\leet060305.cpp" />
-    <ClCompile Include="2021\leet060306.cpp" />
-    <ClCompile Include="2021\leet060402.cpp" />
-    <ClCompile Include="2021\leet060403.cpp" />
-    <ClCompile Include="2021\leet060404.cpp" />
-    <ClCompile Include="2021\leet060405.cpp" />
-    <ClCompile Include="2021\leet060406.cpp" />
-    <ClCompile Include="2021\leet060408.cpp" />
-    <ClCompile Include="2021\leet070104.cpp" />
-    <ClCompile Include="2021\leet070105.cpp" />
-    <ClCompile Include="2021\leet070206.cpp" />
-    <ClCompile Include="2021\leet070302.cpp" />
-    <ClCompile Include="2021\leet070303.cpp" />
-    <ClCompile Include="2021\leet070304.cpp" />
-    <ClCompile Include="2021\leet070305.cpp" />
-    <ClCompile Include="2021\leet070308.cpp" />
-    <ClCompile Include="2021\leet070406.cpp" />
-    <ClCompile Include="2021\leet070407.cpp" />
-    <ClCompile Include="2021\leet080105.cpp" />
-    <ClCompile Include="2021\leet080106.cpp" />
+    <ClCompile Include="2021\0502\02\leet050202.cpp" />
+    <ClCompile Include="2021\0502\05\leet050205.cpp" />
+    <ClCompile Include="2021\0504\05\leet050405.cpp" />
+    <ClCompile Include="2021\0504\07\leet050407.cpp" />
+    <ClCompile Include="2021\0504\08\leet050408.cpp" />
+    <ClCompile Include="2021\0505\01\leet050501.cpp" />
+    <ClCompile Include="2021\0601\02\leet060102.cpp" />
+    <ClCompile Include="2021\0601\03\leet060103.cpp" />
+    <ClCompile Include="2021\0601\04\leet060104.cpp" />
+    <ClCompile Include="2021\0601\07\leet060107.cpp" />
+    <ClCompile Include="2021\0601\08\leet060108.cpp" />
+    <ClCompile Include="2021\0602\02\leet060202.cpp" />
+    <ClCompile Include="2021\0602\03\leet060203.cpp" />
+    <ClCompile Include="2021\0602\04\leet060204.cpp" />
+    <ClCompile Include="2021\0602\05\leet060205.cpp" />
+    <ClCompile Include="2021\0602\06\leet060206.cpp" />
+    <ClCompile Include="2021\0603\02\leet060302.cpp" />
+    <ClCompile Include="2021\0603\03\leet060303.cpp" />
+    <ClCompile Include="2021\0603\05\leet060305.cpp" />
+    <ClCompile Include="2021\0603\06\leet060306.cpp" />
+    <ClCompile Include="2021\0604\02\leet060402.cpp" />
+    <ClCompile Include="2021\0604\03\leet060403.cpp" />
+    <ClCompile Include="2021\0604\04\leet060404.cpp" />
+    <ClCompile Include="2021\0604\05\leet060405.cpp" />
+    <ClCompile Include="2021\0604\06\leet060406.cpp" />
+    <ClCompile Include="2021\0604\08\leet060408.cpp" />
+    <ClCompile Include="2021\0701\04\leet070104.cpp" />
+    <ClCompile Include="2021\0701\05\leet070105.cpp" />
+    <ClCompile Include="2021\0702\06\leet070206.cpp" />
+    <ClCompile Include="2021\0703\02\leet070302.cpp" />
+    <ClCompile Include="2021\0703\03\leet070303.cpp" />
+    <ClCompile Include="2021\0703\04\leet070304.cpp" />
+    <ClCompile Include="2021\0703\05\leet070305.cpp" />
+    <ClCompile Include="2021\0703\08\leet070308.cpp" />
+    <ClCompile Include="2021\0704\06\leet070406.cpp" />
+    <ClCompile Include="2021\0704\07\leet070407.cpp" />
+    <ClCompile Include="2021\0801\04\leet080105.cpp" />
+    <ClCompile Include="2021\0801\06\leet080106.cpp" />
     <ClCompile Include="leet080107.cpp" />
     <ClCompile Include="leet080202.cpp" />
     <ClCompile Include="leet080204.cpp" />
@@ -203,6 +204,9 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="leetcode-cpp.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
