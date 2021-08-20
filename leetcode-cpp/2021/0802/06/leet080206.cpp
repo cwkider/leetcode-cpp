@@ -47,7 +47,7 @@ public:
 	}
 };
 
-int main() {
+int main_leet080206() {
 	Solution st;
 	vector<string> strs;
 	vector<vector<string>> ret;

@@ -32,17 +32,8 @@
     <ClCompile Include="leetcode-cpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="leet080107.cpp">
-      <Filter>소스 파일\2021</Filter>
-    </ClCompile>
     <ClCompile Include="Node.cpp">
       <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="leet080202.cpp">
-      <Filter>소스 파일\2021</Filter>
-    </ClCompile>
-    <ClCompile Include="leet080204.cpp">
-      <Filter>소스 파일\2021</Filter>
     </ClCompile>
     <ClCompile Include="2021\0801\04\leet080105.cpp">
       <Filter>소스 파일\2021</Filter>
@@ -157,6 +148,9 @@
     </ClCompile>
     <ClCompile Include="2021\0704\07\leet070407.cpp">
       <Filter>소스 파일\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="2021\0803\05\leet080305.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
