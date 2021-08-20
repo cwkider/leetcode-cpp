@@ -152,6 +152,9 @@
     <ClCompile Include="2021\0803\05\leet080305.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2021\0803\07\leet080307.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="leetcode-cpp.rc">

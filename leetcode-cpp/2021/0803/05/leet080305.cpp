@@ -40,7 +40,7 @@ public:
 	}
 };
 
-int main() {
+int main_leet080305() {
 	Solution st;
 	string s;
 	
