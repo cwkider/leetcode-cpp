@@ -195,6 +195,12 @@
     <ClCompile Include="2021\0801\06\leet080106.cpp" />
     <ClCompile Include="2021\0803\05\leet080305.cpp" />
     <ClCompile Include="2021\0803\07\leet080307.cpp" />
+    <ClCompile Include="2021\0804\03\leet080403.cpp" />
+    <ClCompile Include="2021\0804\04\leet080404.cpp" />
+    <ClCompile Include="2021\0804\05\leet080405.cpp" />
+    <ClCompile Include="2021\0804\08\leet080408.cpp" />
+    <ClCompile Include="TreeNode.cpp" />
+    <ClCompile Include="2021\0804\06\leet080406.cpp" />
     <ClCompile Include="leetcode-cpp.cpp" />
     <ClCompile Include="Node.cpp" />
     <ClCompile Include="pch.cpp">

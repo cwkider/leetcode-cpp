@@ -83,7 +83,7 @@ public:
 
 };
 
-int main() {
+int main_leet080307() {
 	Solution st;
 	vector<vector<char>> board;
 
