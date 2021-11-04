@@ -199,6 +199,10 @@
     <ClCompile Include="2021\0804\04\leet080404.cpp" />
     <ClCompile Include="2021\0804\05\leet080405.cpp" />
     <ClCompile Include="2021\0804\08\leet080408.cpp" />
+    <ClCompile Include="2021\0904\06\leet090406.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="TreeNode.cpp" />
     <ClCompile Include="2021\0804\06\leet080406.cpp" />
     <ClCompile Include="leetcode-cpp.cpp" />
