@@ -228,6 +228,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="leetcode-cpp.aps" />
+    <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="leetcode-cpp.rc">

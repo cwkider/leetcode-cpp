@@ -219,6 +219,7 @@
     <ClCompile Include="problems\leetpr00986.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="leetcode-cpp.aps" />
   </ItemGroup>
   <ItemGroup>
